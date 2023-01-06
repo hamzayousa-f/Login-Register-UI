@@ -1,4 +1,4 @@
-# loginui
+# Login/Register UI
 
 A new Flutter project.
 
